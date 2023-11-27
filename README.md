@@ -6,11 +6,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> privatevoid<br>
+<img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> TMN.<br>
 <br>
-<img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> danielterpstra006@gmail.com<br>
+<img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> thijmenvdmeer@gmail.com<br>
 <br>
-<img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> [github.com/TerpDev](https://github.com/TerpDev)
+<img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> [github.com/TMNVDM](https://github.com/TMNVDM)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
