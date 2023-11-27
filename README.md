@@ -1,7 +1,7 @@
 ### Hello there, I'm Thijmen vd Meer - aka [TMNVDM](https://github.com/TMNVDM)
 
 ## I'm a student and beginning developer
-- 🎓 I'm currently studying [ROC van Twente](https://www.rocvantwente.nl/)
+- 🎓 I'm currently studying Software Developer at [ROC van Twente](https://www.rocvantwente.nl/)
 - 📚 I’m currently learning C#, HTML/CSS and beginning with PHP and I'm learning The Game Engine Unity
 
 ### Connect with me:
