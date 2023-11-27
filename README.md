@@ -1,9 +1,8 @@
-### Hello there, I'm Daniel T - aka [TerpieDev](https://github.com/TerpDev) ✌
+### Hello there, I'm Thijmen vd Meer - aka [TMNVDM](https://github.com/TMNVDM)
 
 ## I'm a student and beginning developer
-- 🎓 I'm currently undergoing my university studies at [ROC Twente](https://www.rocvantwente.nl/)
-- 📚 I’m currently learning C# and HTML/CSS and I'm learning The Game Engine Unity
-- 🥅 2023 Goals: Learn a lot about C# and HTML/CSS, become proficient in Unity, and finish my first year of school
+- 🎓 I'm currently studying [ROC van Twente](https://www.rocvantwente.nl/)
+- 📚 I’m currently learning C#, HTML/CSS and beginning with PHP and I'm learning The Game Engine Unity
 
 ### Connect with me:
 
