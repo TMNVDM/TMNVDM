@@ -25,11 +25,7 @@
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTerpDev%2FTerpDev&label=Visitors&countColor=%2314D0E0)
-
 ---
-
-[![Discord Presence]()](https://discord.com/users/512580871375814678)
 
 <img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
 <img width="500px" alt="Daniel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerpDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
