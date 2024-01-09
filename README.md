@@ -11,7 +11,8 @@
 <img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> thijmenvdmeer@gmail.com<br>
 <br>
 <img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> [github.com/TMNVDM](https://github.com/TMNVDM)
-tmnvdm.github.io
+<br>
+[tmnvdm.github.io](https://tmnvdm.github.io)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
