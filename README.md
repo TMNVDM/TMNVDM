@@ -2,7 +2,7 @@
 
 ## I'm a student and beginning developer
 - 🎓 I'm currently studying Software Developer at [ROC van Twente](https://www.rocvantwente.nl/)
-- 📚 I’m currently learning C#, HTML/CSS and beginning with PHP and I'm learning The Game Engine Unity
+- 📚 I’m currently learning C#, HTML/CSS and beginning with PHP, JavaScript and I'm learning The Game Engine Unity
 
 ### Connect with me:
 
